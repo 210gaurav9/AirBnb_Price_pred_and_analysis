@@ -22,3 +22,7 @@ Many kinds of analysis is presented in my Notebook, to know more facts please do
 <img src="airbnb_image/alpha_optimize.png"><br>
 ##### and optimizing the alpha.... and found the best model which was XgboostRegressor..
 ###### *Please do checkout the project for more details.*
+## *SCREENSHOTS:*
+<img src="airbnb_image/air_shot1.png"><br>
+<img src="airbnb_image/air_shot2.png"><br>
+<img src="airbnb_image/air_shot3.png"><br>
